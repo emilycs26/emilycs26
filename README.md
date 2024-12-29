@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Hello, my name is Emily! I'm a CS and Cognitive Psychology student at Northeastern University. I'm from New York and I'm looking for internship and co-op opportunities in data science and machine learning.<br><br>- 🔭 I’m working as an office assistant and research assistant at Northeastern University<br>- 📚 I'm currently taking classes about Artificial Intelligence and Cognition<br>- 🤓 Previous classes I have taken are Object Oriented Design, Algorithms and Data, Discrete Structures, and Projects in Cloud Computing<br>- 🌎 Fun fact about me is that I have triple citizenship! (United States, Peru, and Ecuador)</p>
+<p align="left">Hello, my name is Emily! I'm a CS and Cognitive Psychology student at Northeastern University. I'm from New York and I'm looking for internship and co-op opportunities in data science and machine learning.<br><br>- 🔭 I’m working as an office assistant and research assistant at Northeastern University<br>- 📚 I'm currently taking classes about Artificial Intelligence and Cognition<br>- 🤓 Some of the previous classes I have taken are Object Oriented Design, Algorithms and Data, Discrete Structures, and Projects in Cloud Computing<br>- 🌎 Fun fact about me is that I have triple citizenship! (United States, Peru, and Ecuador)</p>
 
 ###
 
