@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="150" src="https://s1.1zoom.me/big7/474/USA_Rivers_Bridges_429244.jpg"  />
-</div>
-
 ###
 
 <h1 align="center">hey there 👋</h1>
