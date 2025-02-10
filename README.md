@@ -8,11 +8,11 @@
 
 ###
 
-<p align="left">Hello, my name is Emily! I'm a Computer Science and Cognitive Psychology student at Northeastern University with a focus on AI. Passionate about uncovering insights through data, I'm actively seeking intership and co-op opportunities as a data scientist or analyst. I thrive at the intersection of technology and human cognition, and I love building solutions that make data-driven decisions more accessible. <br><br>- 🔭 I’m currently working as a research assistant and website administrator at Northeastern University<br>- 🤓 Some of the previous classes I have taken are Object Oriented Design, Algorithms and Data, Database Design, Discrete Structures, and Projects in Cloud Computing<br>- 🌎 A Fun fact about me is that I have triple citizenship! (United States, Peru, and Ecuador)</p>
+<p align="left">Hello, my name is Emily! I'm a Computer Science and Cognitive Psychology student at Northeastern University with a focus on AI. I am also in Northeastern's PlusOne program to take graduate courses early for a Master's in Artificial Intelligence. Passionate about uncovering insights, I'm actively seeking intership and co-op opportunities in data. I thrive at the intersection of technology and human cognition, and I love building solutions that make data-driven decisions more accessible. <br><br>- 🔭 I’m currently working as a research assistant and website administrator at Northeastern University<br>- 🤓 Some of the previous classes I have taken are Database Design, Object Oriented Design, Mathematical Reasoning, Statistics, Projects in Cloud Computing, and Foundations of Data Science<br>- 🌎 Activities & Clubs: ColorStack, NU DATA, Society of Professional Hispanic Engineers, NU Latin American Student Organization)</p>
 
 ###
 
-<h4 align="left">Connect with me on LinkedIn!</h4>
+<h4 align="left">Let's connect on LinkedIn!</h4>
 
 ###
 
