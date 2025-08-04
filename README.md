@@ -4,15 +4,15 @@
 
 ###
 
-<h3 align="left">👩🏽‍💻  About Me</h3>
+<h3 align="left">✨ About Me</h3>
 
 ###
 
-<p align="left">Hello, my name is Emily! I'm a Computer Science and Cognitive Psychology student at Northeastern University with a focus on AI. I am also in Northeastern's PlusOne program to take graduate courses early for a Master's in Artificial Intelligence. Passionate about uncovering insights, I'm actively seeking intership and co-op opportunities in data. I thrive at the intersection of technology and human cognition, and I love building solutions that make data-driven decisions more accessible. <br><br>- 🔭 I’m currently working as a research assistant and website administrator at Northeastern University<br>- 🤓 Some of the previous classes I have taken are Database Design, Object Oriented Design, Mathematical Reasoning, Statistics, Projects in Cloud Computing, and Foundations of Data Science<br>- 🌎 Activities & Clubs: ColorStack, NU DATA, Society of Professional Hispanic Engineers, NU Latin American Student Organization)</p>
+<p align="left">Hello! My name is Emily and I am a Computer Science and Cognitive Psychology student at Northeastern University with a focus on AI. I'm passionate about building projects that are technically challenging and meaningfully helpful, especially at the intersection of technology and human cognition. I'm currently seeking internship and co-op opportunities for Summer and Fall 2026. <br><br>- 🔜 I have an upcoming 4-month full-time co-op as a Generative AI Product Developer with the Burnes Center for Social Change, where I'll be working on impactful, socially driven AI projects.<br>- 💼 I've previously worked as a lab manager, research assistant, and website administrator at Northeastern University. Each job either focused on data, AI, or user experience.<br>- 🤓 My coursework includes Object Oriented Design, Database Design, Mathematical Reasoning, Projects in Cloud Computing, and Foundations of Data Science.<br>- 🌎 I'm actively involved in several campus organizations including NU DATA Club, iHusky, Society of Women Engineers, Society of Hispanic Engineers, and NU Latin American Student Organization.</p>
 
 ###
 
-<h4 align="left">Let's connect on LinkedIn!</h4>
+<h4 align="left">Let's connect!</h4>
 
 ###
 
@@ -47,7 +47,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 
 ###
