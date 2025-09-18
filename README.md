@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="166" src="https://i.pinimg.com/1200x/d7/2e/da/d72edae65880fe685e4120af28735cac.jpg"  />
+<img align="right" height="200" src="https://i.pinimg.com/1200x/d7/2e/da/d72edae65880fe685e4120af28735cac.jpg"  />
 
 ###
 
@@ -59,13 +59,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emilycs26/emilycs26/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emilycs26/emilycs26/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/emilycs26/emilycs26/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
